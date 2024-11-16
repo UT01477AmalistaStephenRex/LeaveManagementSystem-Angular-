@@ -1,0 +1,51 @@
+{
+    "students" : [
+    {
+        "id":"STU001",
+        "studentId":"",
+        "nic":"",
+        "firstName":"",
+        "lastName":"",
+        "dob":"",
+        "doj":""
+    },
+    {
+        "id":"STU002",
+        "studentId":"",
+        "nic":"",
+        "firstName":"",
+        "lastName":"",
+        "dob":"",
+        "doj":""
+    }
+],
+"users": [
+    {
+      "username": "STU001",
+      "password": "pw1",
+      "role": "Employee",
+      "employeeId": "STU001",
+      "id": "EMP_qgQEF"
+    },
+    {
+      "username": "STU002",
+      "password": "pw1",
+      "role": "Admin",
+      "employeeId": "STU002",
+      "id": "EMP_JHAu4"
+    }
+],
+"leaveRequests": [
+    {
+      "id": "LR1",
+      "reason": "party",
+      "employeeId": null,
+      "dateFrom": "2024-09-17",
+      "numOfDays": "1",
+      "applicationDate": "2024-09-06",
+      "status": "Rejected",
+      "processedDate": "2024-09-05",
+      "rejectionReason": "cant allow"
+    }
+]
+}
