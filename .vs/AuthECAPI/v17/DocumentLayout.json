@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240714024834_nameisaddedinuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20240713160809_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\welcome\\onedrive\\desktop\\new folder\\angular-jwt-login-logout-with-.net-core-api-asp.net-core-identity\\authecapi\\authecapi\\migrations\\20241130205110_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910BF66E-D17F-4DED-84FD-DFCC36858ED8}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20241130205110_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:41:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDetails.json",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\UserDetails.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\UserDetails.json",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\UserDetails.json",
+              "RelativeToolTip": "AuthECAPI\\UserDetails.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T13:18:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:11:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:13:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:01:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:35:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:20:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:59:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240714024834_NameIsAddedInUserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240714024834_NameIsAddedInUserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:07:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:05:53.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240713160809_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20240713160809_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:04:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:53:33.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T05:11:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241130205110_user.cs",
+              "DocumentMoniker": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20241130205110_user.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20241130205110_user.cs",
+              "ToolTip": "C:\\Users\\welcome\\OneDrive\\Desktop\\New folder\\Angular-JWT-Login-Logout-with-.Net-Core-API-Asp.Net-Core-Identity\\AuthECAPI\\AuthECAPI\\Migrations\\20241130205110_user.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20241130205110_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:51:10.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

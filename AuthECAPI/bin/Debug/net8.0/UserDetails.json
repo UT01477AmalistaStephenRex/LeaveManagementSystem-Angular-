@@ -1,0 +1,80 @@
+[
+  {
+    "email": "admin1_m_age53@gmail.com",
+    "password": "admin1_m_age53",
+    "fullName": "Admin 1",
+    "role": "Admin",
+    "age": 21,
+    "nic": "200354513112",
+    "UTnumber": 71476,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI4MTU4MzA0ZS0zYjRjLTQ4MTEtODI0My0yMzVhNWFkYWVlNWYiLCJOSUMiOiIyMDAzNTQ1MTMxMTIiLCJBZ2UiOiIyMSIsInJvbGUiOiJBZG1pbiIsIlVUbnVtYmVyIjoiNzE0NzYiLCJuYmYiOjE3MzMxNTU4NjYsImV4cCI6MTczNDAxOTg2NiwiaWF0IjoxNzMzMTU1ODY2fQ.2XMiHdDq5vsaPf3TRugZXkI1uxicQtjZYxKlysxrBUo"
+  },
+
+  {
+    "email": "teacher1_f_age36@gmail.com",
+    "password": "teacher1_f_age36",
+    "fullName": "Teacher 1",
+    "role": "Lecturer",
+    "age": 36,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiJlODgyY2ZjNy0xNGFkLTRmM2QtYjYxMy1mZWY5M2RmZmZmODMiLCJOSUMiOiIyMDAzNTQ1MTMxNzIiLCJBZ2UiOiIzNiIsInJvbGUiOiJMZWN0dXJlciIsIm5iZiI6MTczMzE1NjIzMSwiZXhwIjoxNzM0MDIwMjMxLCJpYXQiOjE3MzMxNTYyMzF9.a_1aJvjNKOskM9FUJoiB4uHtCGmIYUj_bKp9N7495Vg"
+  },
+  {
+    "email": "teacher2_m_age40@gmail.com",
+    "password": "teacher2_m_age40",
+    "fullName": "Teacher 2",
+    "role": "Founder",
+    "age": 40,
+    "nic": "200354583112",
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI5MGQyYjQ3YS1iYzRkLTQ3ODEtODE4Yy1iNDFkYzg4MjUxM2EiLCJOSUMiOiIyMDAzNTQ1ODMxMTIiLCJBZ2UiOiI0MCIsInJvbGUiOiJGb3VuZGVyIiwiVVRudW1iZXIiOiI5MTc3NiIsIm5iZiI6MTczMzE1NjU2NSwiZXhwIjoxNzM0MDIwNTY1LCJpYXQiOjE3MzMxNTY1NjV9.HwEbYtah3QSoLxo3qdkjM7r2bIG77tvm-tmOmyWVbwM"
+  },
+  {
+
+    "email": "teacher3_m_age40@gmail.com",
+    "password": "teacher3_m_age40",
+    "fullName": "Teacher 3",
+    "role": "Director",
+    "age": 40,
+    "nic": "200354583112",
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI5ZmY0MWVjMC1kODEzLTQyMDktYTU4My0wMjgyY2YwMzkzMGUiLCJOSUMiOiIyMDAzNTQ1ODMxMTIiLCJBZ2UiOiI0MCIsInJvbGUiOiJEaXJlY3RvciIsIlVUbnVtYmVyIjoiNzE3NzYiLCJuYmYiOjE3MzMxNTY2ODMsImV4cCI6MTczNDAyMDY4MywiaWF0IjoxNzMzMTU2NjgzfQ.vI9ku6hXdsIGjrIHmLEeo-M_FJM2R6mKuWgGIi-351g"
+  },
+  {
+    "email": "student1_f_age21@gmail.com",
+    "password": "student1_f_age21",
+    "fullName": "Student 1",
+    "role": "Student",
+    "age": 21,
+    "nic": "200354513112",
+    "UTnumber": 71478,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiIwNDA1YmZlYy04ZWE3LTQ3N2YtYjg4NC0xZmFlMGIyOWEwNWIiLCJOSUMiOiIyMDAzNTQ1MTMxMTIiLCJBZ2UiOiIyMSIsInJvbGUiOiJTdHVkZW50IiwiVVRudW1iZXIiOiI3MTQ3OCIsIm5iZiI6MTczMzE1Njc4NCwiZXhwIjoxNzM0MDIwNzg0LCJpYXQiOjE3MzMxNTY3ODR9.6uL--CahOk2n2LNOqWGyVDAgRQ1tcLGr4NSYcweU5hk"
+  },
+  {
+    "email": "student2_m_age21@gmail.com",
+    "password": "student2_m_age21",
+    "fullName": "Student 2",
+    "role": "Student",
+    "age": 23,
+    "nic": "200354513112",
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI0YjVlNTY1MC00NTViLTQ0ZmEtODI4OS02MDBlZTMyZjc2ODgiLCJOSUMiOiIyMDAzNTQ1MTMxMTIiLCJBZ2UiOiIyMyIsInJvbGUiOiJTdHVkZW50IiwiVVRudW1iZXIiOiIzMTQ3NiIsIm5iZiI6MTczMzE1NjgzNSwiZXhwIjoxNzM0MDIwODM1LCJpYXQiOjE3MzMxNTY4MzV9.IG5eYj-CGwe7XrGLVA_i7ce-hIQvB35psPUSHVhzq0A"
+  },
+  {
+    "email": "student3_m_age9@gmail.com",
+    "password": "student3_m_age9",
+    "fullName": "Student 3",
+    "role": "Student",
+    "age": 18,
+    "nic": "200354513112",
+    "UTnumber": 81876,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1MDM0Y2FjZC1iY2Q5LTQ3ZTgtOGM3Mi1kZTMxYmRhMjk4YmYiLCJOSUMiOiIyMDAzNTQ1MTMxMTIiLCJBZ2UiOiIxOCIsInJvbGUiOiJTdHVkZW50IiwiVVRudW1iZXIiOiI4MTg3NiIsIm5iZiI6MTczMzE1NjkwMiwiZXhwIjoxNzM0MDIwOTAyLCJpYXQiOjE3MzMxNTY5MDJ9.E6ienqanUS2AcaB91VY-jW9Bb0pyRt63ryH9K6vud9A"
+  },
+  {
+    "email": "student4_f_age9@gmail.com",
+    "password": "student4_f_age9",
+    "fullName": "Student 4",
+    "role": "Student",
+    "age": 23,
+    "nic": "200354513112",
+    "UTnumber": 81476,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySUQiOiI1YTM2MjNiYS1iZjQ5LTQ0MDYtYjc3Ni0wYmM4MTA1NzkyNTEiLCJOSUMiOiIyMDAzNTQ1MTMxMTIiLCJBZ2UiOiIyMyIsInJvbGUiOiJTdHVkZW50IiwiVVRudW1iZXIiOiI4MTQ3NiIsIm5iZiI6MTczMzE1Njk3NywiZXhwIjoxNzM0MDIwOTc3LCJpYXQiOjE3MzMxNTY5Nzd9.EqjgTAja2iAH2RWa4nkN8UI9FDiir0ImyrnDMTtqpV8"
+
+  }
+]
